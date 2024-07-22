@@ -17,7 +17,7 @@ Hi, there, I'm Stong. Nice to meet you!
 <code><img height="20" alt="Python" src="images/python.svg"></code>
 <code><img height="20" alt="Dart" src="images/dart.svg"></code>
 
-| <a href="https://github.com/stong1994/secret_book"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stong1994&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stong's github stats" /></a> | <a href="https://github.com/stong1994/secret_book"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stong1994&layout=compact&theme=buefy&hide_border=true?hide=html" /></a> |
+| <a href="https://github.com/stong1994/secret_book"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stong1994&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stong's github stats" /></a> | <a href="https://github.com/stong1994/secret_book"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stong1994&layout=compact&theme=buefy&hide_border=true&hide=html,css,java" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 #### Maybe you would like to checkout my tools:
@@ -40,8 +40,8 @@ Hi, there, I'm Stong. Nice to meet you!
 <a href="https://github.com/stong1994/github-copilot-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stong1994&repo=github-copilot-api&theme=buefy" />
 </a>
-<a href="https://github.com/stong1994/watermill-rediszet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stong1994&repo=watermill-rediszet&theme=buefy" />
+<a href="https://github.com/stong1994/watermill-rediszset">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stong1994&repo=watermill-rediszset&theme=buefy" />
 </a>
 <a href="https://github.com/stong1994/self-lawyer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stong1994&repo=self-lawyer&theme=buefy" />
