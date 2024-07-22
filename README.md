@@ -12,11 +12,10 @@ Hi, there, I'm Stong. Nice to meet you!
 
 - Flutter is my favorite tool for building apps
 
-<code><img height="20" alt="Go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" alt="Rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="Lua" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/lua/lua.png"></code>
-<code><img height="20" alt="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" alt="Go" src="images/go.svg"></code>
+<code><img height="20" alt="Rust" src="images/rust.svg"></code>
+<code><img height="20" alt="Python" src="images/python.svg"></code>
+<code><img height="20" alt="Dart" src="images/dart.svg"></code>
 
 | <a href="https://github.com/stong1994/secret_book"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stong1994&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stong's github stats" /></a> | <a href="https://github.com/stong1994/secret_book"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stong1994&layout=compact&theme=buefy&hide_border=true?hide=html" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
