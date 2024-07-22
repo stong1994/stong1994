@@ -12,14 +12,14 @@ Hi, there, I'm Stong. Nice to meet you!
 
 - Flutter is my favorite tool for building apps
 
-<code><img height="20" alt="Go" src="images/go.svg"></code>
-<code><img height="20" alt="Rust" src="images/rust.svg"></code>
-<code><img height="20" alt="Python" src="images/python.svg"></code>
-<code><img height="20" alt="Flutter" src="images/flutter"></code>
-<code><img height="20" alt="Lua" src="images/lua"></code>
+<code><img height="20" alt="Go" src="images/go.png"></code>
+<code><img height="20" alt="Rust" src="images/rust.png"></code>
+<code><img height="20" alt="Python" src="images/python.png"></code>
+<code><img height="20" alt="Flutter" src="images/flutter.png"></code>
+<code><img height="20" alt="Lua" src="images/lua.png"></code>
 
 | <a href="https://github.com/stong1994/secret_book"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stong1994&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stong's github stats" /></a> | <a href="https://github.com/stong1994/secret_book"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stong1994&layout=compact&theme=buefy&hide_border=true&hide=html,css,java" /></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Maybe you would like to checkout my tools:
 
