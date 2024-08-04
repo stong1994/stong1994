@@ -4,16 +4,19 @@ Hi, there, I'm Stong. Nice to meet you!
 
 **About me**
 
-- I'm a Software Engineer
+- I'm a Software Engineer. 👨🏻‍💻
 
-- I write code for my own enjoyment
+- I'm a lifelong learner. 🤓
 
-- I usually use go, but I find rust to be amazing
+- I like writing code, helping others and entertaining myself through coding. 😄
 
-- Flutter is my favorite tool for building apps
+- I usually use go, but I find rust to be amazing.
+
+- Flutter is my favorite tool for building apps.
+
 
 <code><img height="20" alt="Go" src="images/go.png"></code>
-<code><img height="20" alt="Rust" src="images/rust.png"></code>
+<code><img height="20" alt="Rust" src="https://camo.githubusercontent.com/8e31ce4df532515ac9a1c0418c03b7793471ff9e282dfc28e6473b65334fbac9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f727573742d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72757374266c6f676f436f6c6f723d7768697465"></code>
 <code><img height="20" alt="Python" src="images/python.png"></code>
 <code><img height="20" alt="Flutter" src="images/flutter.png"></code>
 <code><img height="20" alt="Lua" src="images/lua.png"></code>
